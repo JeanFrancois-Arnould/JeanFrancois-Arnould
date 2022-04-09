@@ -22,7 +22,7 @@ Lors de ma formation, j'ai suivi une spécialisation en DATA et API (express,  S
 
 # Ok tu fais du JS, rien d'autre ?
 
-Je m'intéresse en ce moment au python et pourquoi pas au PHP ainsi que React que je vais apprendre en solo.
+Je m'intéresse en ce moment au python , PowerShell et pourquoi pas au PHP ainsi que React que je vais apprendre en solo.
 
 # Il y a quoi sur ton GitHub ?
 
