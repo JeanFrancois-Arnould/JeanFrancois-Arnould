@@ -13,7 +13,7 @@ Ancien chef de cuisine qui par amour du code a décidé de changer de carrière 
 
 # Des diplômes ?
 
-Je dois passer mon titre professionnel fin mai 2021 et je vais passer ma certification Opquast en avril 2021.
+certification Opquast en avril 2021.
 J'ai un BAC Technologique en Hôtelerie et Restauration.
 
 # Plutôt back ou front ?
